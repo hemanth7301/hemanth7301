@@ -2,10 +2,8 @@
 
 # Hey there! I'm <a href = "https://www.linkedin.com/in/hemanth-sakhamuri/">Hemanth Sakhamuri</a>. Welcome to my GitHub👋
 
-Working in Capgemini as a Full Stack Developer.
-
 ## About
-
+- 👔 Working in Capgemini as a Full Stack Developer.
 - 🔥 Interested in Backend technologies and building Nodejs, SpringBoot applications.
 - 🧠 Improving my problem-solving abilities by solving DSA questions on the leetcode.
 - 📚 Learning LLD and System Design.
