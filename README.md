@@ -25,7 +25,7 @@
 </tr>
 <tr>
 	<td><strong>Backend Development</strong></td>
-	<td><img height=40 src = "https://skillicons.dev/icons?i=nodejs,dotnet,spring&theme=dark"></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=nodejs,dotnet,spring,kafka&theme=dark"></td>
 </tr>
 <tr>
 	<td><strong>DevOps</strong></td>
