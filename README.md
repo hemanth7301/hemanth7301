@@ -16,16 +16,16 @@
 	<td><img height=40 src = "https://skillicons.dev/icons?i=cpp,cs,java&theme=dark"></td>
 </tr>
 <tr>
+	<td><strong>Backend Development</strong></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=nodejs,dotnet,spring,kafka&theme=dark"></td>
+</tr>
+<tr>
 	<td><strong>Database Technologies</strong></td>
 	<td><img height=40 src = "https://skillicons.dev/icons?i=postgresql,mongodb&theme=dark"></td>
 </tr>
 <tr>
 	<td><strong>Frontend Development</strong></td>
 	<td><img height=40 src = "https://skillicons.dev/icons?i=html,css,js,react" ></td>
-</tr>
-<tr>
-	<td><strong>Backend Development</strong></td>
-	<td><img height=40 src = "https://skillicons.dev/icons?i=nodejs,dotnet,spring,kafka&theme=dark"></td>
 </tr>
 <tr>
 	<td><strong>DevOps</strong></td>
